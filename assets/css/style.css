@@ -33,11 +33,7 @@ img {vertical-align: middle;max-height: 400px;
         display: none;
     }
 }
-@media only screen and (max-width: 1026px) {
-    .slideshow-container {
-        height: 300px;
-    }
-}
+
 /*#id8{
 	background-color: blue;
 	opacity: 0.5;
