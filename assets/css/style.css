@@ -34,7 +34,7 @@ img {vertical-align: middle;max-height: 400px;
     }
 }
 @media only screen and (max-width: 1026px) {
-    .slideshow-container {
+    .slideshow-container.img {
         height: 300px;
     }
 }
